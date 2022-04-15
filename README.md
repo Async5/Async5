@@ -1,4 +1,4 @@
-![Banner](https://cdn.discordapp.com/attachments/885989710592348230/923911285240893470/github-banner.jpg)
+![Banner](https://cdn.discordapp.com/attachments/885989710592348230/964487771651715092/banner.jpg)
 
 <!--
 **Async5/Async5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
